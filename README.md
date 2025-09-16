@@ -7,4 +7,4 @@ Also, make sure you have downloaded the Crazyflie Python Library (cflib).
 
 In Motive: Make sure to create a rigid body for the drone and check for no occlusions before running the code. Also label rigid body as "cf01", "cf02"...
 
-
+MOST IMPORTANTLY, make sure to place the drone so that it faces the same direction as the X axis of the mocap system.
